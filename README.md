@@ -2,12 +2,12 @@
   <img src="https://files.catbox.moe/fh731v.jpg" alt="DEV-TXT-LEECH">
 </p>
 <h1 align="center">
-  <a href="https://github.com/Dev-Thanos/DEV-TXT-LEECH">DEV-TXT-LEECH 👨‍💻</a>
+  <a href="https://github.com/Sheru-Git/NEW-REPO-.git">DEV-TXT-LEECH 👨‍💻</a>
 </h1>
 
 ## **Main Repository**
 
-##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/Dev-Thanos/DEV-TXT-LEECH)
+##### Dev Thanos.   [DEV-TXT-LEECH 👨‍💻](https://github.com/Sheru-Git/NEW-REPO-.git)
 
 
 
@@ -62,7 +62,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Dev-Thanos/DEV-TXT-LEECH/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/Sheru-Git/NEW-REPO-.git/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
