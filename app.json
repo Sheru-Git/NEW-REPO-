@@ -7,33 +7,33 @@
     "video-extract",
     "pyrogram"
   ],
-  "repository": "https://github.com/Dev-Thanos/TXT-LEECH-BOT",
+  "repository": "https://github.com/Sheru-Git/NEW-REPO-.git",
   "success_url": "https://t.me/CoderThanos",
   "stack": "container",
   "env": {
     "API_ID": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
-      "value": "22746239",
+      "value": "27053516",
       "required": true
     },
     "API_HASH": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
-      "value": "a98ec8cfd8572a3a7c936cf828fe6215",
+      "value": "9a9bf031fae47c7f9a315be709bff039",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-      "value": "",
+      "value": "8137366352:AAHLuIWGPqilBXcec6nzHBhy88TvnrzY-S0",
       "required": true
     },
     "OWNER": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝙔𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙄𝘿",
-      "value": "7743201204",
+      "value": "6532949224",
       "required": true
     },
     "CREDIT": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-      "value": "〱ＵＧ▕",
+      "value": "THAKOR",
       "required": true
     }
   },
